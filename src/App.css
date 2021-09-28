@@ -7,7 +7,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px;
-  width: 70%;
+  width: 85%;
   margin: 40px auto;
 }
 .img-container img {
